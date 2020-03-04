@@ -14,4 +14,4 @@ class Song
     Song.all << self
   end
 
-  
+end
