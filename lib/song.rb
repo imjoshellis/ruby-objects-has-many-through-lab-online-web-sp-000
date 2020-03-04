@@ -11,6 +11,7 @@ class Song
     @name = name
     @artist = artist
     @genre = genre
-
     Song.all << self
   end
+
+  
